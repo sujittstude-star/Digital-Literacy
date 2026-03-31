@@ -21,7 +21,7 @@ As a newly selected **Student Digital Ambassador**, my role is to help my peers 
 
 -----
 
-## 🛠️ Module Summaries
+##  Module Summaries
 
 ### **Module 1: Digital Literacy Awareness**
 
