@@ -33,8 +33,7 @@ I created a visual infographic to help batchmates understand the definition of d
 
 I established a foundational professional presence on GitHub and LinkedIn. As a **Cybersecurity & Digital Forensics** student, this portfolio marks the beginning of my professional identity and my commitment to mastering digital investigation and security protocols.
 
-* **Deliverable:** https://github.com/lavishvishwakarma789987-rgb/digital-literacy-project/tree/4392e0a1be7487629efcfe136e1cbf0e0f1f2c7e/task-2-portfolio
-
+* **Deliverable:** https://github.com/sujittstude-star/Digital-Literacy/tree/main/task-2-portfolio
 ### **Module 3: Coding & Collaboration**
 
 I practiced technical problem-solving on HackerRank by completing beginner-level Python challenges. Additionally, I developed a digital literacy awareness quiz using Google Forms to facilitate peer learning and data organization.
