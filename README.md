@@ -63,7 +63,7 @@ To ensure easy navigation, this repository is organized into the following folde
 
 -----
 
-## 🏁 Conclusion
+##  Conclusion
 
 This project has been a significant milestone in my transition to university life at VIT Bhopal. By completing these five tasks, I have not only enhanced my technical proficiency with tools like GitHub, Google Workspace, and HackerRank, but I have also developed a deeper understanding of my responsibilities as a Student Digital Ambassador.
 
